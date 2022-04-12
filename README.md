@@ -5,3 +5,5 @@
 - Fix the assignment 8. Your "Add Todo" page should store the todo item in the database.
 - Show todo items from the DB through the API in your home page.
 - Implemment edit, delete. 
+
+After finished, create back-end and front-end folders and copy your src folders accordingly. 
