@@ -5,6 +5,6 @@
 - Fix the assignment 8. Your "Add Todo" page should store the todo item in the database.
 - Show todo items from the DB through the API in your home page.
 - Implemment edit, delete.
-- Add isDone flag to your schema. List tasks that are already done in a separate div.
+-  Add "done" button to the todoItem component. Add "isDone" flag to your collection. List tasks that are already done in another list in the Home page. Remove from todo list and add to the done list.
 
 After finished, create back-end and front-end folders and copy your src folders accordingly. 
